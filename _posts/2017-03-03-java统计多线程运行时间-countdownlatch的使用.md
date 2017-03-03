@@ -1,7 +1,7 @@
 ---
 title: java统计多线程运行时间-countdownlatch的使用
 layout: post
-tags: 'JAVA,多线程'
+tags: JAVA 多线程
 categories: blog
 ---
 我们项目当中使用了spring quartz定时任务，其中一个用了多线程执行，为了统计执行时间，方便性能比较，查阅资料后，发现countdownlatch：
